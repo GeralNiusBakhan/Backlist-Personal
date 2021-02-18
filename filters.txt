@@ -1,9 +1,6 @@
 ### Updated: 2021-02-18
 
-# [doubleclick-analytics.com]
 127.0.0.1 flash.doubleclick-analytics.com
-
-# [doubleclick.net]
 127.0.0.1 accounts.doubleclick.net
 127.0.0.1 ad.doubleclick.net
 127.0.0.1 ad-apac.doubleclick.net
