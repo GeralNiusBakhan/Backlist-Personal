@@ -1,37 +1,10 @@
 ### Updated: 2021-02-18
 
-0.0.0.0 privatestats.whatsapp.net
 0.0.0.0 www.googleadservices.com
 0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 ssl.google-analytics.com
-0.0.0.0 data.mistat.intl.xiaomi.com
-0.0.0.0 tracking.intl.miui.com
-0.0.0.0 xlog.tiktokv.com
-0.0.0.0 ads.mopub.com
-0.0.0.0 gjapplog.ucweb.com
-0.0.0.0 api.ad.intl.xiaomi.com
-0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 securepubads.g.doubleclick.net
-0.0.0.0 global.video.intl.xiaomi.com
-0.0.0.0 a.applovin.com
-0.0.0.0 www.google-analytics.com
-0.0.0.0 a.applvn.com
-0.0.0.0 globalapi.ad.xiaomi.com
-0.0.0.0 telemetry.sdk.inmobi.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 adservice.google.com
-0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 doubleclick.net
 0.0.0.0 ad.doubleclick.net
-0.0.0.0 fcmatch.youtube.com
-0.0.0.0 id.video.intl.xiaomi.com
-0.0.0.0 ads.inmobi.com
-0.0.0.0 config.unityads.unity3d.com
-0.0.0.0 resolver.msg.xiaomi.net
-0.0.0.0 api.onesignal.com
-0.0.0.0 adn.insight.ucweb.com
-0.0.0.0 cdp.cloud.unity3d.com
-0.0.0.0 adv.sec.intl.miui.com
-0.0.0.0 wzrkt.com
-0.0.0.0 z.moatads.com
 0.0.0.0 pubads.g.doubleclick.net
