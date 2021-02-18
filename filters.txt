@@ -87,29 +87,12 @@
 127.0.0.1 partner.googleadservices.com
 127.0.0.1 www.googleadservices.com
 
-# [googleadsserving.cn]
-127.0.0.1 static.googleadsserving.cn
-
-# [googleapis.com]
-127.0.0.1 clientmetrics-pa.googleapis.com
-
 # [googlesyndication.com]
 127.0.0.1 ade.googlesyndication.com
 127.0.0.1 buttons.googlesyndication.com
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 video-ad-stats.googlesyndication.com
-
-# [googletagmanager.com]
-127.0.0.1 googletagmanager.com
-127.0.0.1 www.googletagmanager.com
-
-# [googletagservices.com]
-127.0.0.1 googletagservices.com
-127.0.0.1 www.googletagservices.com
-
-# [googleusercontent.com]
-127.0.0.1 displayads-formats.googleusercontent.com
 
 # [moat.com]
 127.0.0.1 moat.com
