@@ -5575,54 +5575,6 @@
 # [gooddata.com]
 127.0.0.1 secure.gooddata.com
 
-# [google.com]
-127.0.0.1 ads.google.com
-127.0.0.1 adservice.google.com
-127.0.0.1 ampcid.google.com
-127.0.0.1 fundingchoices.google.com
-127.0.0.1 crashlytics2.l.google.com
-127.0.0.1 pagead-googlehosted.l.google.com
-127.0.0.1 s0-2mdn-net.l.google.com
-127.0.0.1 www-googletagmanager.l.google.com
-127.0.0.1 video-stats.video.google.com
-
-# [google.com.tr]
-127.0.0.1 adservice.google.com.tr
-
-# [google.com.ua]
-127.0.0.1 adservice.google.com.ua
-
-# [google.com.vn]
-127.0.0.1 adservice.google.com.vn
-
-# [google.de]
-127.0.0.1 adservice.google.de
-
-# [google.ie]
-127.0.0.1 adservice.google.ie
-
-# [google.nl]
-127.0.0.1 adservice.google.nl
-
-# [googleadservices.com]
-127.0.0.1 googleadservices.com
-127.0.0.1 pagead2.googleadservices.com
-127.0.0.1 partner.googleadservices.com
-127.0.0.1 www.googleadservices.com
-
-# [googleadsserving.cn]
-127.0.0.1 static.googleadsserving.cn
-
-# [googleapis.com]
-127.0.0.1 clientmetrics-pa.googleapis.com
-
-# [googlesyndication.com]
-127.0.0.1 ade.googlesyndication.com
-127.0.0.1 buttons.googlesyndication.com
-127.0.0.1 pagead2.googlesyndication.com
-127.0.0.1 tpc.googlesyndication.com
-127.0.0.1 video-ad-stats.googlesyndication.com
-
 # [gop1.co]
 127.0.0.1 gop1.co
 127.0.0.1 aos.gop1.co
