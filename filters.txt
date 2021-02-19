@@ -124,6 +124,11 @@
 0.0.0.0 d2sizlzbqfysna.cloudfront.net
 0.0.0.0 nonicale.top
 0.0.0.0 213.32.61.36
+0.0.0.0 privatestats.whatsapp.net
+0.0.0.0 a.applovin.com
+0.0.0.0 a.applvn.com
+0.0.0.0 wzrkt.com
+0.0.0.0 in.wzrkt.com
 
 # [adskeeper.co.uk]
  0.0.0.0 a.adskeeper.co.uk
