@@ -87,16 +87,31 @@
 0.0.0.0  mg.mgid.com
 0.0.0.0  notify.mgid.com
 0.0.0.0  prebid.mgid.com
-0.0.0.0  s-img.mgid.com
+0.0.0.0  s-img.mgid.com\
 0.0.0.0  servicer.mgid.com
 0.0.0.0  static.mgid.com
 0.0.0.0  video-native.mgid.com
 0.0.0.0  widgets.mgid.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 video-ad-stats.googlesyndication.com
-0.0.0.0 
-0.0.0.0 
-0.0.0.0 
+0.0.0.0 wsp.mgid.com
+0.0.0.0 mgid.com
+
+# [adreactor.com]
+127.0.0.1 adserver.adreactor.com
+
+# [ucweb.com]
+127.0.0.1 adtrack.ucweb.com
+127.0.0.1 gjtrack.ucweb.com
+127.0.0.1 insight.ucweb.com
+127.0.0.1 adn.insight.ucweb.com
+127.0.0.1 logserver.insight.ucweb.com
+127.0.0.1 sdkupgrade.insight.ucweb.com
+127.0.0.1 puds.ucweb.com
+127.0.0.1 uc.ucweb.com
+127.0.0.1 click.union.ucweb.com
+
+0.0.0.0 errcarsvex.casa
 0.0.0.0 
 0.0.0.0 
 0.0.0.0 
