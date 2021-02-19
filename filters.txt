@@ -115,6 +115,22 @@
 0.0.0.0 writtenlistened.com
 0.0.0.0 bedspursueclueless.com
 0.0.0.0 system-security-new.com
+0.0.0.0 p232207.infopicked.com
+0.0.0.0 install.myconvertersearch.com
+0.0.0.0 install.superpdfsearch.com
+0.0.0.0 exemplarfilthy.com
+0.0.0.0 girtygm.com
+0.0.0.0 accelerationirreproachabledonation.com
+0.0.0.0 d2sizlzbqfysna.cloudfront.net
+0.0.0.0 nonicale.top
+0.0.0.0 213.32.61.36
+
+# [adskeeper.co.uk]
+ 0.0.0.0 a.adskeeper.co.uk
+ 0.0.0.0 cm.adskeeper.co.uk
+ 0.0.0.0 jsc.adskeeper.co.uk
+ 0.0.0.0 s-img.adskeeper.co.uk
+ 0.0.0.0 wsp.adskeeper.co.uk
 
 # [Xiaomi]
 0.0.0.0 a.hl.mi.com
