@@ -131,6 +131,13 @@
  0.0.0.0 jsc.adskeeper.co.uk
  0.0.0.0 s-img.adskeeper.co.uk
  0.0.0.0 wsp.adskeeper.co.uk
+ 0.0.0.0 adskeeper.co.uk
+
+ # [maxonclick.com]
+0.0.0.0 maxonclick.com
+
+# [banner ads zippyshare]
+0.0.0.0 p232207.mycdn.co
 
 # [Xiaomi]
 0.0.0.0 a.hl.mi.com
