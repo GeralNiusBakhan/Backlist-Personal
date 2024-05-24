@@ -2803,8 +2803,8 @@ inapps.appsflyersdk.com^
 ||api-analytics.metaps.com^
 ||api.analytics.omgpop.com^
 ||api.apptentive.com^
-||api.branch.io^
-||api2.branch.io^
+@@||api.branch.io^$Tokopedia
+@@||api2.branch.io^$tokopedia
 ||api.gimbal.com^
 ||appmetrica.yandex.net^
 ||appmetrica.yandex.com^
