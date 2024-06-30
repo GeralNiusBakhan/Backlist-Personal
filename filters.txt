@@ -2863,3 +2863,27 @@ inapps.appsflyersdk.com^
 ||utop.umengcloud.com^
 ! KingRoot
 ||analy.qq.com^
+||pangle.io
+||impression-asia.liftoff.io^$important
+||datk.toponadss.com^$important
+||event.tradplusad.com^$important
+||bidder.tradplusad.com^$important
+||cdn-f.adsmoloco.com^$important
+||prod-a.applovin.com^$important
+||pix.adrta.com^$important
+||q.adrta.com^$important
+||adx.tradplusad.com^$important
+||adx-os.toponadss.com^$important
+||api.tradplusad.com^$important
+||adx-os-bid.anythinktech.com^$important
+||sdk.ad.smaato.net^$important
+||et-eus.w.inmobi.com^$important
+||au.w.inmobi.com^$important
+||cdn-c.adsmoloco.com^$important
+||adx-os-bid.toponadss.com^$important
+||i.l-new.inmobicdn.net^$important
+||i.l.inmobicdn.net^$important
+||cdn.liftoff-creatives.io^$important
+||unif-id.ssp.inmobi.com^$important
+||ads.inmobi.com^$important
+@@||tpc.googlesyndication.com^$important
